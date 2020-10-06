@@ -1,0 +1,8 @@
+name;ignore_older;event_id;
+Application;30d;;
+Security;30d;;
+System;30d;;
+Microsoft-windows-sysmon/operational;30d;;
+Microsoft-windows-PowerShell/Operational;30d;4103,4104;
+Windows PowerShell;30d;400,600;
+Microsoft-Windows-WMI-Activity/Operational;30d;5857,5858,5859,5860,5861;
